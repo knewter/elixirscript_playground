@@ -1,0 +1,8 @@
+{
+  "repository": {},
+  "dependencies": {
+    "brunch": "^1.8.1",
+    "babel-brunch": "^5.1.1",
+    "elixirscript-brunch": "file:/home/jadams/javascript/elixirscript-brunch"
+  }
+}
