@@ -2,3 +2,4 @@ node_modules
 app/__lib
 npm-debug.log
 public
+app/calc.js
